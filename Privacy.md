@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Metaballix Foundation built the Metaballix Hub app as a Free app. This SERVICE is provided by Metaballix Foundation at no cost and is intended for use as is.
+Metaballix Foundation built the Metaballix Hub app as a Free app. Our applications and services are provided by Metaballix Foundation at no cost and is intended for use as is (in-app purchases may include NFT minting, trading, cryptocurrency exchange, and similar web3 transactions on the Solana Blockchain).
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
